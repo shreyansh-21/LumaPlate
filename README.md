@@ -1,9 +1,9 @@
 <h1>LumaPlate</h1>
 <hr>
-<a href="https://crop-prediction-puce.vercel.app/" target="_blank"><h1>License Plate Recognition and Image Enhancement Paper</h1></a>
+<h1>License Plate Recognition and Image Enhancement Paper</h1>
 <h2>ZeroDCE - Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement</h2>
 
-<p><strong>ZeroDCE</strong> is a deep learning algorithm designed for low-light image enhancement without the need for reference images. It estimates a set of pixel-wise enhancement curves, allowing the model to enhance images directly and efficiently.</p>
+<p><strong>ZeroDCE</strong> is a deep learning algorithm designed for low-light image enhancement without the need for reference images. It estimates a set of pixel-wise enhancement curves, allowing the model to enhance images directly and efficiently. <a href="https://drive.google.com/file/d/1gstkh1qcTFpVWQiLTr3Mo_P0nxXg_0BZ/view?usp=sharing" target="_blank">Check out the Paper</a></p>
 
 <h2>⭐ Key Features</h2>
 <ul>
